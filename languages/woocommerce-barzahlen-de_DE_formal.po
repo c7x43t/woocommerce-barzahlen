@@ -1,0 +1,476 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Barzahlen for WooCommerce v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-26 12:05+0100\n"
+"PO-Revision-Date: 2021-01-26 12:06+0100\n"
+"Last-Translator: Sven Wagener <sven@awesome.ug>\n"
+"Language-Team: Sven Wagener <sven.wagener@rheinschmiede.de>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ woocommerce-barzahlen
+#: core/barzahlengate-core.php:143 core/barzahlengate-core.php:172
+#: core/barzahlengate-core.php:197
+msgid "Barzahlen"
+msgstr "Barzahlen"
+
+# @ woocommerce-barzahlen
+#: core/barzahlengate-core.php:144 core/barzahlengate-core.php:173
+msgid "Integrates Barzahlen into your WooCommerce store."
+msgstr "Integriert Barzahlen in Ihren WooCommerce Shop."
+
+# @ woocommerce-barzahlen
+#: core/barzahlengate-core.php:188
+msgid "Enable/Disable"
+msgstr "Aktivieren/Deaktivieren"
+
+# @ woocommerce-barzahlen
+#: core/barzahlengate-core.php:190
+msgid "Enable Barzahlen"
+msgstr "Barzahlen aktivieren"
+
+# @ woocommerce-barzahlen
+#: core/barzahlengate-core.php:194
+msgid "Title"
+msgstr "Titel"
+
+# @ woocommerce-barzahlen
+#: core/barzahlengate-core.php:196
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+"Hier können Sie den Titel eingeben, den der Benutzer an der Kasse sieht."
+
+# @ woocommerce-barzahlen
+#: core/barzahlengate-core.php:200
+msgid "Description"
+msgstr "Beschreibung"
+
+# @ woocommerce-barzahlen
+#: core/barzahlengate-core.php:202
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+"Hier können Sie die Beschreibung eingeben den der Benutzer während des "
+"Checkouts sieht."
+
+# @ woocommerce-barzahlen
+#: core/barzahlengate-core.php:203
+msgid "You can pay with Barzahlen after checkout."
+msgstr "Sie können mit Barzahlen nach dem Checkout bezahlen."
+
+# @ woocommerce-barzahlen
+#: core/barzahlengate-core.php:206
+msgid "Division ID"
+msgstr "Divisions ID"
+
+# @ woocommerce-barzahlen
+#: core/barzahlengate-core.php:208
+#, php-format
+msgid "Enter your <a href=\"%s\" target=\"_blank\">Division ID</a>."
+msgstr "Geben Sie Ihre <a href=\"%s\" target=\"_blank\">Divisions ID</a> ein."
+
+# @ woocommerce-barzahlen
+#: core/barzahlengate-core.php:212
+msgid "Payment Key"
+msgstr "Zahlungsschlüssel"
+
+# @ woocommerce-barzahlen
+#: core/barzahlengate-core.php:214
+#, php-format
+msgid "Enter your <a href=\"%s\" target=\"_blank\">Payment Key</a>."
+msgstr ""
+"Geben Sie Ihre <a href=\"%s\" target=\"_blank\">Zahlungsschlüssel</a> ein."
+
+# @ woocommerce-barzahlen
+#: core/barzahlengate-core.php:218
+msgid "Sandbox"
+msgstr "Sandbox"
+
+# @ woocommerce-barzahlen
+#: core/barzahlengate-core.php:220
+msgid "Enable Sandbox test API of Barzahlen."
+msgstr "Barzahlen Sandbox-Modus test API aktivieren."
+
+# @ woocommerce-barzahlen
+#: core/barzahlengate-core.php:224
+msgid "Debug"
+msgstr "Debug"
+
+# @ woocommerce-barzahlen
+#: core/barzahlengate-core.php:226
+msgid "Enable logging."
+msgstr "Protokollierung aktivieren."
+
+#: core/barzahlengate-core.php:230
+msgid "Notice URL"
+msgstr "Benachrichtigungs-URL"
+
+#: core/barzahlengate-core.php:233
+#, php-format
+msgid ""
+"Copy that url to your <a href=\"%s\" target=\"_blank\">barzahlen division "
+"settings</a>."
+msgstr ""
+"Kopieren sie diese URL in ihre  <a href=\"%s\" target=\"_blank“>Barzahlen "
+"Division Einstellungen</a>."
+
+# @ woocommerce-barzahlen
+#: core/barzahlengate-core.php:276
+msgid "Payment via Barzahlen completed."
+msgstr "Zahlung per Barzahlen abgeschlossen."
+
+# @ woocommerce-barzahlen
+#: core/barzahlengate-core.php:287 core/barzahlengate-core.php:288
+msgid "Payment via Barzahlen expired."
+msgstr "Zahlung über Barzahlen abgelaufen."
+
+# @ woocommerce-barzahlen
+#: core/barzahlengate-core.php:298 core/barzahlengate-core.php:299
+msgid "Payment via Barzahlen canceled."
+msgstr "Zahlung über Barzahlen abgebrochen."
+
+# @ woocommerce-barzahlen
+#: core/barzahlengate-core.php:310
+msgid "Payment status not submitted by Barzahlen."
+msgstr "Zahlungsstatus wurde von Barzahlen nicht übermittelt."
+
+# @ woocommerce-barzahlen
+#: core/barzahlengate-core.php:315
+#, php-format
+msgid "Unknown payment status: %s."
+msgstr "Unbekannter Zahlungsstatus: %s."
+
+# @ woocommerce-barzahlen
+#: core/barzahlengate-core.php:368
+msgid "Awaiting Barzahlen payment."
+msgstr "Warten auf Barzahlen Zahlung."
+
+# @ woocommerce-barzahlen
+#: core/barzahlengate-core.php:376
+msgid "Barzahlen returned an Error. Please choose annother payment method."
+msgstr ""
+"Barzahlen hat einen Fehler zurückgegeben. Bitte wählen Sie eine andere "
+"Zahlungsmethode."
+
+# @ woocommerce-barzahlen
+#: core/barzahlengate-core.php:407
+msgid "Pay with Barzahlen"
+msgstr "Bezahlen mit Barzahlen"
+
+#: core/barzahlengate-core.php:408
+msgid "Show order summary"
+msgstr "Zur Bestellzusammenfassung"
+
+# @ woocommerce-barzahlen
+#: core/barzahlengate-core.php:441
+#, php-format
+msgid "Order-%s-%s"
+msgstr "Bestellung-%s-%s"
+
+#: core/barzahlengate-core.php:546
+#, php-format
+msgid "Refunded %s to transaction %s."
+msgstr "%s für Transaktion %s erstattet."
+
+#: core/barzahlengate-core.php:548
+#, php-format
+msgid "Refunded %s to transaction %s with the reason: %s."
+msgstr "%s für Transaktion %s mit folgendem Grund erstattet: %s."
+
+#: core/barzahlengate-core.php:562
+#, php-format
+msgid "Payment process with Barzahlen was initialized (Transaction ID: %s)."
+msgstr ""
+"Der Zahlungsvorgang mit Barzahlen wurde initialisiert (Transaktions-ID: %s)."
+
+# @ woocommerce-barzahlen
+#: core/marketpress-autoupdater/class-MarketPress_Auto_Update.php:364
+#: core/marketpress-autoupdater/class-MarketPress_Auto_Update.php:608
+#: core/mp_auto_update.php:349 core/mp_auto_update.php:584
+msgctxt "MarketPress URL part, should be .de for German languages"
+msgid "marketpress.com"
+msgstr "marketpress.de"
+
+# @ woocommerce-barzahlen
+#: core/marketpress-autoupdater/class-MarketPress_Auto_Update.php:375
+#: core/mp_auto_update.php:359
+#, php-format
+msgid ""
+"<strong>Whoops!</strong> The license key you have entered appears not to be "
+"valid. You can always get your valid key from your Downloads page at %s. "
+"Automatic updates for this plugin have been disabled until you enter a valid "
+"key."
+msgstr ""
+"<strong>Hoppla!</strong> Der Lizenzschlüssel, den Sie eingegeben haben, "
+"scheint nicht gültig zu sein. Sie können Ihren Lizenzschlüssel stets auf "
+"deiner Downloads-Seite bei %s nachsehen. Automatische Updates sind nicht "
+"verfügbar, bis Sie einen gültigen Lizenzschlüssel eingegeben haben."
+
+# @ woocommerce-barzahlen
+#: core/marketpress-autoupdater/class-MarketPress_Auto_Update.php:382
+#, php-format
+msgid ""
+"<strong>All is fine.</strong> You are using a valid license key from %s for "
+"this plugin."
+msgstr ""
+"<strong>Alles ist gut.</strong> Sie benutzen einen gültigen Lizenzschlüssel "
+"von %s für dieses Plugin."
+
+# @ woocommerce-barzahlen
+#: core/marketpress-autoupdater/class-MarketPress_Auto_Update.php:396
+#: core/mp_auto_update.php:379
+#, php-format
+msgid "Enter a valid license key from %s below."
+msgstr "Geben Sie einen gültigen Lizenzschlüssel von %s ein."
+
+# @ woocommerce-barzahlen
+#: core/marketpress-autoupdater/class-MarketPress_Auto_Update.php:401
+#: core/mp_auto_update.php:384
+msgid "Help! I need to retrieve my key."
+msgstr "Hilfe! Ich muss meinen Lizenzschlüssel nachsehen."
+
+# @ woocommerce-barzahlen
+#: core/marketpress-autoupdater/class-MarketPress_Auto_Update.php:407
+#: core/mp_auto_update.php:390
+msgid ""
+"<strong>Whoops!</strong> The license key you have entered appears not to be "
+"valid. Automatic updates for this plugin have been disabled until you enter "
+"a valid key."
+msgstr ""
+"<strong>Hoppla!</strong> Der Lizenzschlüssel, den Sie eingegeben haben, "
+"scheint nicht gültig zu sein. Sie können ihren Lizenzschlüssel stets auf "
+"deiner Downloads-Seite bei %s nachsehen. Automatische Updates sind nicht "
+"verfügbar, bis sie einen gültigen Lizenzschlüssel eingegeben haben."
+
+# @ woocommerce-barzahlen
+#: core/marketpress-autoupdater/class-MarketPress_Auto_Update.php:412
+#, php-format
+msgid ""
+"<strong>All is fine.</strong> You are using a valid license key from %s for "
+"this plugin. <a href=\"%s\">Delete Key</a>."
+msgstr ""
+"<strong>Alles ist gut.</strong> Sie benutzen einen gültigen Lizenzschlüssel "
+"von %s für dieses Plugin. <a href=\"%s\">Lizenzschlüssel löschen</a>."
+
+# @ woocommerce-barzahlen
+#: core/marketpress-autoupdater/class-MarketPress_Auto_Update.php:423
+#: core/mp_auto_update.php:405
+msgid "Your license status"
+msgstr "Status ihrer Lizenz"
+
+# @ woocommerce-barzahlen
+#: core/marketpress-autoupdater/class-MarketPress_Auto_Update.php:434
+#: core/mp_auto_update.php:411
+msgid "License Key"
+msgstr "Lizenzschlüssel"
+
+# @ woocommerce-barzahlen
+#: core/marketpress-autoupdater/class-MarketPress_Auto_Update.php:615
+#: core/mp_auto_update.php:591
+msgid "License key has been deleted."
+msgstr "Lizenzschlüssel wurde gelöscht."
+
+# @ woocommerce-barzahlen
+#: core/marketpress-autoupdater/class-MarketPress_Auto_Update.php:621
+#: core/mp_auto_update.php:597
+msgid "License activated successfully."
+msgstr "Lizenz erfolgreich aktiviert."
+
+# @ woocommerce-barzahlen
+#: core/marketpress-autoupdater/class-MarketPress_Auto_Update.php:627
+#: core/marketpress-autoupdater/class-MarketPress_Auto_Update.php:634
+#: core/marketpress-autoupdater/class-MarketPress_Auto_Update.php:643
+#: core/marketpress-autoupdater/class-MarketPress_Auto_Update.php:652
+#: core/mp_auto_update.php:603 core/mp_auto_update.php:610
+#: core/mp_auto_update.php:619 core/mp_auto_update.php:628
+msgid "License cannot be activated."
+msgstr "Lizenz kann nicht aktiviert werden."
+
+# @ woocommerce-barzahlen
+#: core/marketpress-autoupdater/class-MarketPress_Auto_Update.php:628
+#: core/mp_auto_update.php:604
+msgid "The license key you have entered is not correct."
+msgstr "Der Lizenzschlüssel, den Sie eingegeben haben, ist nicht korrekt."
+
+# @ woocommerce-barzahlen
+#: core/marketpress-autoupdater/class-MarketPress_Auto_Update.php:635
+#: core/mp_auto_update.php:611
+#, php-format
+msgid ""
+"You have reached the limit of URLs included in your license. Please update "
+"your license at %s."
+msgstr ""
+"Sie haben das URL-Limit für deinen Lizenzschlüssel erreicht. Bitte "
+"aktualisiere sie ihre Lizenz bei %s."
+
+# @ woocommerce-barzahlen
+#: core/marketpress-autoupdater/class-MarketPress_Auto_Update.php:644
+#: core/mp_auto_update.php:620
+#, php-format
+msgid ""
+"Something went wrong. Please try again later or contact the support staff at "
+"%s."
+msgstr ""
+"Etwas ist schief gelaufen. Bitte versuchen sie es später noch einmal und "
+"kontaktieren den Support bei %s."
+
+# @ woocommerce-barzahlen
+#: core/marketpress-autoupdater/class-MarketPress_Auto_Update.php:653
+#: core/mp_auto_update.php:629
+#, php-format
+msgid ""
+"Your license does not appear to be valid for this plugin. Please update your "
+"license at %s."
+msgstr ""
+"Deine Lizenz scheint nicht gültig zu sein. Bitte aktualisiere sie ihre "
+"Lizenz bei %s."
+
+# @ woocommerce-barzahlen
+#: core/mp_auto_update.php:366
+#, php-format
+msgid ""
+"<strong>All is fine.</strong> You are using a valid license key from %s for "
+"this plugin. If you need to enter a new key, just override the current one "
+"and save."
+msgstr ""
+"<strong>Alles ist gut.</strong> Sie benutzen einen gültigen Lizenzschlüssel "
+"von %s für dieses Plugin. Wenn sie einen neuen Lizenzschlüssel eingeben "
+"möchten, überschreiben sie den jetzigen einfach und speichern."
+
+# @ woocommerce-barzahlen
+#: core/mp_auto_update.php:395
+#, php-format
+msgid ""
+"<strong>All is fine.</strong> You are using a valid license key from %s for "
+"this plugin. If you need to enter a new key, just override the current one "
+"and save. Or just <a href=\\\"%s\\\">delete it</a> to make it disappear."
+msgstr ""
+"<strong>Alles ist gut.</strong> Sie benutzen einen gültigen Lizenzschlüssel "
+"von %s für dieses Plugin. Wenn sie einen neuen Lizenzschlüssel eingeben "
+"möchten, überschreibem sie den jetzigen einfach und speichern. Oder <a href="
+"\"%s\">löschen ihn einfach</a>."
+
+# @ woocommerce-barzahlen
+#: woocommerce-barzahlen.php:281
+#, php-format
+msgid ""
+"WooCommerce Barzahlen Gateway requires WooCommerce to be installed. <a href="
+"\"%s\">Download it now</a>!"
+msgstr ""
+"WooCommerce Barzahlen benötigt das WooCommerce Plugin. <a href=\"%s"
+"\">Herunterladen</a>!"
+
+# @ woocommerce-barzahlen
+#: woocommerce-barzahlen.php:282
+#, php-format
+msgid ""
+"WooCommerce Barzahlen Gateway requires WooCommerce %s or higher. <a href=\"%s"
+"\">Upgrade now</a>!"
+msgstr ""
+"WooCommerce Barzahlen.de benötigt WooCommerce %s oder höher. <a href=\"%s"
+"\">Aktualisieren</a>!"
+
+# @ woocommerce-barzahlen
+#: woocommerce-barzahlen.php:283
+#, php-format
+msgid ""
+"WooCommerce Barzahlen Gateway requires WordPress %s or higher. <a href=\"%s"
+"\">Upgrade now</a>!"
+msgstr ""
+"WooCommerce Barzahlen.de benötigt WordPress %s oder höher. <a href=\"%s"
+"\">Aktualisieren</a>!"
+
+# @ woocommerce-barzahlen
+#: woocommerce-barzahlen.php:284
+#, php-format
+msgid ""
+"WooCommerce Barzahlen Gateway requires PHP %s or higher. Please ask your "
+"hosting company for support."
+msgstr ""
+"WooCommerce Barzahlen.de benötigt PHP %s oder höher. Bitte wende dich an "
+"deinen Webhosting-Provider."
+
+# @ woocommerce-barzahlen
+#: woocommerce-barzahlen.php:285
+#, php-format
+msgid ""
+"WooCommerce Barzahlen Gateway does not support the currency/currencies: %s."
+msgstr ""
+"WooCommerce Barzahlen.de Gateway unterstützt folgende Währung/Währungen "
+"nicht: %s."
+
+# @ woocommerce-barzahlen
+#: woocommerce-barzahlen.php:299
+msgid "Options"
+msgstr "Einstellungen"
+
+# @ woocommerce-barzahlen
+#~ msgid "Activate"
+#~ msgstr "Aktivieren"
+
+# @ woocommerce-barzahlen
+#~ msgid "Barzahlen for WooCommerce"
+#~ msgstr "Barzahlen für WooCommerce"
+
+#~ msgid "https://marketpress.de/Product/woocommerce-barzahlen"
+#~ msgstr "https://marketpress.de/Product/woocommerce-barzahlen"
+
+#~ msgid "Awesome UG & MarketPress"
+#~ msgstr "Awesome UG & MarketPress"
+
+# @ woocommerce-barzahlen
+#~ msgid "http://awesome.ug"
+#~ msgstr "http://awesome.ug"
+
+#~ msgid "Payment pending for order %s via Barzahlen."
+#~ msgstr "Zahlung ausstehend für Bestellung %s über Barzahlen."
+
+# @ woocommerce-barzahlen
+#~ msgid "Payment expired"
+#~ msgstr "Zahlung abgelaufen"
+
+# @ woocommerce-barzahlen
+#~ msgid "Notification Key"
+#~ msgstr "Benachrichtigungsschlüssel"
+
+# @ woocommerce-barzahlen
+#~ msgid "Enter your <a href=\"%s\" target=\"_blank\">Notification Key</a>."
+#~ msgstr ""
+#~ "Geben Sie Ihre <a href=\"%s\" target=\"_blank"
+#~ "\">Benachrichtigungsschlüssel</a> ein."
+
+# @ woocommerce-barzahlen
+#~ msgid "Notification URL"
+#~ msgstr "Benachrichtigungs-URL"
+
+# @ woocommerce-barzahlen
+#~ msgid ""
+#~ "Enter this URL in your <a href=\"%s\" target=\"_blank\">Barzahlen "
+#~ "Settings</a> to get notificated automaticaly if Customer has paid: "
+#~ "<p><code>%s</code></p>"
+#~ msgstr ""
+#~ "Geben Sie diese URL in Ihren <a href=\"%s\" target=\"_blank\">Barzahlen "
+#~ "Einstellungen</a> an um über Einen Zahlungseingang benachrichtig zu "
+#~ "werden:<p><code>%s</code></p>"
+
+# @ woocommerce-barzahlen
+#~ msgid "Back to Shop"
+#~ msgstr "Zurück zum Shop"
+
+# @ woocommerce-barzahlen
+#~ msgid ""
+#~ "Barzahlen could not get contacted. Please contact the site admin at %s or "
+#~ "choose another payment method."
+#~ msgstr ""
+#~ "Barzahlen konnte nicht kontaktiert werden. Bitte kontaktieren Sie die "
+#~ "Website-Administrator auf %s oder wählen Sie eine andere Zahlungsmethode."
